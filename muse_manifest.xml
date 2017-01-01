@@ -1,0 +1,27 @@
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="integrityitgroup.net" resolutions="1x" timestamp="1483311335370">
+  <folder name="css">
+    <file name="site_global.css" crc="3805319303"/>
+    <file name="master_a-master.css" crc="4256284896" ref="index"/>
+    <file name="contact.css" crc="4183781691" ref="contact"/>
+    <file name="index.css" crc="3981706923" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:contact"/>
+    <file name="museutils.js" crc="163421577" ref="index:contact"/>
+    <file name="whatinput.js" crc="86476730" ref="index:contact"/>
+    <file name="museconfig.js" crc="36584860" ref="index:contact"/>
+    <file name="require.js" crc="244322403" ref="index:contact"/>
+  </folder>
+  <folder name="images">
+    <file name="integritynew.png" crc="3916575448" seo="true" ref="index"/>
+    <file name="installing.png" crc="457129396" seo="true" ref="index"/>
+    <file name="u2313-4.png" crc="3937726696" ref="index"/>
+    <file name="shieldpng.png" crc="4241245265" seo="true" ref="index"/>
+    <file name="u2307-4.png" crc="150505693" ref="index"/>
+    <file name="security.jpg" crc="3872593011" seo="true" ref="index"/>
+    <file name="u2421-4.png" crc="73521770" ref="index"/>
+    <file name="u2369-4.png" crc="4183261016" ref="index"/>
+  </folder>
+  <file name="index.html" crc="3971383987" seo="true" mt="1482457398856" redirect="true"/>
+  <file name="contact.html" crc="231607667" seo="true" mt="1479879433437" redirect="false"/>
+</manifest>

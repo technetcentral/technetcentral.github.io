@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://integrityitgroup.net/index.html</loc>
+    <lastmod>2016-12-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://integrityitgroup.net/contact.html</loc>
+    <lastmod>2016-11-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://integrityitgroup.net/images/installing.png</loc>
+    <lastmod>2017-01-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://integrityitgroup.net/images/integritynew.png</loc>
+    <lastmod>2017-01-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://integrityitgroup.net/images/shieldpng.png</loc>
+    <lastmod>2017-01-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://integrityitgroup.net/images/security.jpg</loc>
+    <lastmod>2017-01-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+</urlset>
